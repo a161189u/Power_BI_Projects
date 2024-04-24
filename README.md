@@ -20,4 +20,3 @@ In this Project I have done the following Task.
 
 •	Leveraged advanced features like bookmarks and buttons to create interactive reports allowing users to navigate between different pages or states within the report.
 
-•	Collaborated with stakeholders to understand business requirements and translate them into actionable insights for revenue optimization and business growth.
